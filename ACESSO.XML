@@ -29,4 +29,10 @@
       <Flag>15</Flag>
       <FULL>N</FULL>
   </serial_7FFAFBBFBFEBFBFF> 
+   <serial_48B52FD1>
+    ///dados do pc da empresa antigo
+    <Data>10/12/2024</Data>
+    <Flag>4</Flag>
+    <FULL>N</FULL>
+  </serial_48B52FD1> 
 </configuracao>
